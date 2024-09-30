@@ -11,3 +11,7 @@ p {
     font-style: calc(atkinson hyper);
     font-size: smaller;
 }
+ul {
+    color: rgb(243, 243, 205);
+    font-style: calc(atkinson hyper);
+}
