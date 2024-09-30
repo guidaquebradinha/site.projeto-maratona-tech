@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(3, 39, 105);
+} 
+
+h1 {
+    color: rgb(243, 239, 205);
+}
+
+p {
+    color: rgb(243, 243, 205);
+    font-style: calc(atkinson hyper);
+    font-size: smaller;
+}
